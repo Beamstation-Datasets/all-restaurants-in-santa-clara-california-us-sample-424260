@@ -1,0 +1,12 @@
+{
+  "export_job_id": "508c9351-8a70-43bb-9db7-2f4e291d7166",
+  "id_short": 424260,
+  "published_at": "2026-04-12T07:49:25Z",
+  "repo_name": "all-restaurants-in-santa-clara-california-us-sample-424260",
+  "sample_asset_name": "beamstation_424260_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/424260/beamstation_424260_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 47,
+  "sample_sha256": "940841a97e3aa8f93564ec316e6e94edbedba4c78be9e6363fac136f3c09a1d7",
+  "sample_size_bytes": 187501,
+  "total_records": 478
+}
