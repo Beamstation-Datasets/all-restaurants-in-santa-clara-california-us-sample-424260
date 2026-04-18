@@ -9,9 +9,9 @@
 | Dataset ID | `424260` |
 | Location | Santa Clara |
 | Category | Restaurants |
-| Full dataset size | 478 records |
-| Free sample size | 47 records (9.83%) |
-| Last export | 2026-04-07T13:25:42.043544+00:00 |
+| Full dataset size | 476 records |
+| Free sample size | 47 records (9.87%) |
+| Last export | 2026-04-14T20:35:04.828114+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-clara-california-us-sample-424260/releases/download/sample-latest/beamstation_424260_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
