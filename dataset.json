@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Santa Clara, California with a population of over 127k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Santa Clara, California, US",
-  "export_job_id": "508c9351-8a70-43bb-9db7-2f4e291d7166",
+  "export_job_id": "182aef8e-948c-4dbc-bad6-306ae2fcc4fb",
   "github_org": "Beamstation-Datasets",
   "id_short": 424260,
   "location_name": "Santa Clara",
   "location_type": "city",
   "repo_name": "all-restaurants-in-santa-clara-california-us-sample-424260",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/424260/beamstation_424260_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.83,
+  "sample_pct": 9.87,
   "sample_records": 47,
-  "sample_sha256": "940841a97e3aa8f93564ec316e6e94edbedba4c78be9e6363fac136f3c09a1d7",
-  "sample_size_bytes": 187501,
-  "total_records": 478,
-  "updated_at": "2026-04-07T13:25:42.043544+00:00"
+  "sample_sha256": "df58420b94bd1b9f7f75170e73ceca18297b25b6f409eaca66ad067819030c94",
+  "sample_size_bytes": 179647,
+  "total_records": 476,
+  "updated_at": "2026-04-14T20:35:04.828114+00:00"
 }
