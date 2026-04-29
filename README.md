@@ -1,6 +1,6 @@
 # All Restaurants in Santa Clara, California, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `424260` |
 | Location | Santa Clara |
 | Category | Restaurants |
-| Full dataset size | 440 records |
-| Free sample size | 44 records (10.0%) |
-| Last export | 2026-04-21T22:49:02.591509+00:00 |
+| Full dataset size | 393 records |
+| Free sample size | 39 records (9.92%) |
+| Last export | 2026-04-29T01:56:30.929462+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-clara-california-us-sample-424260/releases/download/sample-latest/beamstation_424260_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
